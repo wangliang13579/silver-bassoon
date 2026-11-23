@@ -1,0 +1,92 @@
+{
+  "name": "LibreTV-SourceList",
+  "version": 1,
+  "exportedAt": 1794906478869,
+  "sources": [
+    {
+      "name": "量子",
+      "url": "http://cj.lziapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "非凡",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "暴风",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "快车",
+      "url": "https://caiji.kczyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "天空",
+      "url": "http://m3u8.tiankongapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "红牛",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "卧龙",
+      "url": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "极速",
+      "url": "https://jszyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "豪华",
+      "url": "https://hhzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "索尼",
+      "url": "https://suoniapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "无尽",
+      "url": "https://api.wujinapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "魔都",
+      "url": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "百度",
+      "url": "https://api.apibdzy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "1080",
+      "url": "http://api.1080zyku.com/inc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "360",
+      "url": "https://360zy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "电影天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    }
+  ]
+}
